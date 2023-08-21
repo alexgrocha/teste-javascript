@@ -1,4 +1,4 @@
-// Função para calcular o MDC
+// Função para calcular o MDC.
 function calcularMDC(valor1, valor2) {
     while (valor2 !== 0) {
         const temp = valor2;

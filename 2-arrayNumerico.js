@@ -1,4 +1,4 @@
-// Indice inica em 0!
+// Indice inica em 0!!
 // Array numérico sem valores repetidos!
 const array = [99, 0, 45, 5, 10];
 
