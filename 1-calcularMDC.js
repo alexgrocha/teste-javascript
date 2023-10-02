@@ -7,10 +7,7 @@ function calcularMDC(valor1, valor2) {
     }
     return valor1;
 }
-// Função para ler os números e calcular o MDC
-function calcularEMostrarMDC(num1, num2) {
-    const mdc = calcularMDC(num1, num2);
-    console.log(`O máximo divisor comum entre ${num1} e ${num2} é ${mdc}`);
-}
+export default{calcularMDC}
+
 // Números diretamente ao chamar a função
 calcularEMostrarMDC(48, 18);

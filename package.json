@@ -1,0 +1,23 @@
+{
+  "name": "teste-javascript",
+  "version": "1.0.0",
+  "description": "Criando repositório para atividade com JavaScript Criando repositório para atividade com JavaScript",
+  "main": "1-calcularMDC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgrocha/teste-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgrocha/teste-javascript/issues"
+  },
+  "homepage": "https://github.com/alexgrocha/teste-javascript#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
